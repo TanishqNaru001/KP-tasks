@@ -21,11 +21,9 @@ tanishq'"><script>confirm(1)</script>
 ```
 
 ## Proof of Concept Request
-**Screenshot 1:** Payload injected into the search parameter — location where the input reflects unsanitized.
+<img width="1917" height="1042" alt="Screenshot 2026-09-03 070740" src="https://github.com/user-attachments/assets/fa74d5be-2454-4933-bbae-dc7e8c03bd7c" />
+<img width="1917" height="1022" alt="Screenshot 2026-09-03 065412" src="https://github.com/user-attachments/assets/8bef1939-1f26-4556-aa9b-205329070126" />
 
-**Screenshot 2:** Confirm dialog box firing, showing successful script execution.
-
-*(attach screenshots here)*
 
 ## Impact
 This vulnerability allows an attacker to hijack sessions, perform unauthorized actions on behalf of the victim, redirect users to phishing pages, or exfiltrate sensitive data — all by getting a victim to click a single crafted link.
