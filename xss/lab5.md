@@ -1,5 +1,5 @@
 ## Title
-Reflected Cross-Site Scripting (XSS) via `q` Parameter — TutorialRepublic Search (kzlabs.in subdomain)
+Reflected Cross-Site Scripting (XSS) — TutorialRepublic Search 
 
 ## Vulnerability Type
 Reflected XSS
