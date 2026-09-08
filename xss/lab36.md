@@ -71,7 +71,7 @@ The payload persists in the application and can execute whenever a user accesses
 ## Payload Used
 
 ```text
-[Insert the exact XSS payload used during testing]
+tanishq'"><ImG SrC=x ONErrOR=confirm(1)>
 ```
 
 ## Proof of Concept
